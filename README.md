@@ -1,4 +1,5 @@
-### Hi there 👋
+### <h1 align="center">Hi 👋, I'm Bertan</h1>
+<h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <!--
 **wiaoj/wiaoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
