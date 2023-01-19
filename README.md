@@ -41,8 +41,4 @@ Here are some ideas to get you started:
   
 </div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=wiaoj&show_icons=true&locale=en" alt="Bertan Tokgoz's Github Stats" />
-
-<br />
-
 ![snake svg](https://github.com/wiaoj/wiaoj/blob/output/github-contribution-grid-snake.svg)
