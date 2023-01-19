@@ -40,3 +40,15 @@ Here are some ideas to get you started:
 
   
 </div>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wiaoj&show_icons=true&locale=en" alt="Bertan Tokgoz's Github Stats" />
+
+# Hi, I'm Selim Sahin.
+
+<br />
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bertan-tokgoz/)
+
+<p><img align="left" src="https://komarev.com/ghpvc/?username=wiaoj&label=Profile%20views&color=0e75b6&style=flat" alt="bertantokgoz" /></p>
+
+![snake svg](https://github.com/wiaoj/wiaoj/blob/output/github-contribution-grid-snake.svg)
