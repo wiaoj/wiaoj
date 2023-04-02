@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
  ## Statistics
 
 <a href="https://github.com/wiaoj">
