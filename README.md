@@ -1,12 +1,5 @@
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/wiaoj?style=flat&logo=github)](https://github.com/wiaoj?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/wiaoj?style=flat&logo=github&)](https://github.com/wiaoj?tab=repositories)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=wiaoj.visitor-badge)](https://gitHub.com/wiaoj)
-
-<!-- <img src=""> -->
-<hr>
-
 ### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bertan</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
